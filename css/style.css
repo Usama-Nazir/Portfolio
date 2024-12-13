@@ -243,6 +243,7 @@ padding: 0px 90px;
 }
 .Technical-bars .bar{
 margin-top: 40px 0;
+/* display: flex; */
 
 }
 .Technical-bars .bar:first-child{
